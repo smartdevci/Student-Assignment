@@ -1,0 +1,50 @@
+<?php 
+	//j'inclu ce fichier pour pouvoir utiliser la connexion
+	include ('connexion.inc.php');
+
+    
+    <?php 
+    $connexion=connecter();
+    $requete=$connexion->query("SELECT * FROM MAILS");
+?>
+
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>Examen PW</title>
+</head>
+
+<body>
+
+<table>
+    <tr>
+        <th>Nom</th>
+        <th>Prenom</th>
+        <th>Email</th>
+        <th>Modif</th>
+        <th>Suppr</th>
+    </tr>
+
+
+<?php 
+
+while($donnees=$requete->fetch())
+{
+    ?>
+     <tr>
+        <th><?php echo $donnees['nom']  ?></th>
+        <th><?php echo $donnees['prenom'] ?></th>
+        <th><?php echo $donnees['email'] ?></th>
+        <th><a href="modifier.php?id=<?php echo $donnees['id'] ?>"> <img src="crayon.jpg" /></th>
+        <th><a href="supprimer.php?id=<?php echo $donnees['id'] ?>"> <img src="poubelle.jpg" /></th>
+        <th>Suppr</th>
+    </tr>
+
+    <?php 
+}
+
+?>
+	
+</body>
+</html>

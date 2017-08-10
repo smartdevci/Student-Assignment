@@ -1,0 +1,22 @@
+Etudiant
+
+    nom
+    prenom
+    id
+    extra_case
+        consultation
+        id_choix
+        id_options
+        bids
+        preference
+        arguments
+
+Choix
+
+    nom
+    id
+    options
+        nom
+        id
+        place_min
+        place_maxi

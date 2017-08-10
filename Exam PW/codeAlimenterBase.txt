@@ -1,0 +1,91 @@
+<?php 
+	//j'inclu ce fichier pour pouvoir utiliser la connexion
+	include ('connexion.inc.php');
+
+    function remplir($nom,$prenom,$email)
+    {
+    	//si le @ n'est pas au debut
+    	$position_a=strpos($email, "@");
+    	if($position_a>0)
+    	{
+    		$position_point strpos($email, ".");
+    		//s'il y a 2 lettre après le "."
+    		if($position_point<strlen($email)-2)
+    		{
+    			//format de l'email correcte
+        		 $connexion=connecter("PUSHME","localhost","admin","pwmiage");
+      			 $requete_inserer=$connexion->prepare("INSERT INTO MAILS (nom,prenom,email) VALUES (:nom,:prenom,email)");
+      			 $requete_inserer->bindValue(':nom',$nom,PDO::PARAM_STR);
+      			 $requete_inserer->bindValue(':prenom',$prenom,PDO::PARAM_STR);
+      			 $requete_inserer->bindValue(':email',$email,PDO::PARAM_STR);
+      			 $requete_inserer->execute();
+
+    		}
+    	}
+
+    }
+    //Fin de la fonction remplir
+
+
+
+
+    <?php 
+    if(isset($_POST['nom']))
+    {
+    	remplir($_POST['nom'],$_POST['prenom'],$_POST['email']);
+    }
+
+?>
+
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>Examen PW</title>
+</head>
+
+<body>
+
+	<form action="" method="post">
+
+	Nom*
+	<input type="text" name="nom"  id="nom" required />
+	Prenom*
+	<input type="text" name="prenom" id="prenom" required/>
+	Email*
+	<input type="email" name="email" id="email" required />
+
+	<input type="submit" value="VALIDER" id="boutonValider" />
+
+
+
+
+	</form>
+
+
+
+	<script >
+		
+		var bouton = document.getElementById('boutonValider');
+
+
+   		bouton.onclick = function() {
+
+   			var nom=document.getElementById('nom');
+			var prenom=document.getElementById('prenom');
+			var email=document.getElementById('email');
+
+			if(nom.value="" || prenom.value="" || emil.value="" )
+			{
+				alert('Veuillez Saisir tous les champs');
+			}
+    };
+
+
+
+		
+	</script>
+
+</body>
+</html>
+

@@ -1,0 +1,6 @@
+<?php 
+    function connecter($base,$serveur,$login,$mot_de_passe)
+    {
+        $connexion=new PDO('mysql:host='.$serveur.';dbname='.$base, $login,$mot_de_passe);
+        return $connexion;
+    }

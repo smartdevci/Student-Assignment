@@ -1,0 +1,147 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <title>Examen Exercice1</title>
+</head>
+
+<body>
+
+    <?php 
+    $temps=0;
+    $heure=0;
+    $minute=0;
+    $seconde=0;
+    $erreur=0;
+    $texte_erreur="";
+
+
+    //si on a valider le formulaire, c'est ici qu'on va faire la conversion 
+    if(isset($_POST['temps']))
+    {
+        if($_POST['temps']!="")
+        {
+            $temps=$_POST['temps'];
+            $donnees=explode(":",$_POST['temps']);
+            if(sizeof($donnees)!=2)
+            {
+                $erreur=1;
+                $texte_erreur="Format Incorrecte";
+            }
+            else
+            {
+                if(bool_is_int($donnees[0]) && bool_is_int($donnees[1]) )
+                {
+                    $minute=$donnees[0];
+                    $seconde=$donnees[1];
+
+                    $minute=$minute+variant_int($seconde/60);
+                    $heure=variant_int($minute/60);
+                    $minute=$minute%60; 
+
+
+                }
+                else
+                {
+                    $erreur=1;
+                    $texte_erreur="Format Incorrecte";
+                }
+            }
+
+        }
+        else 
+        {
+
+            if($_POST['minute']!="")
+            {
+                $minute=$_POST['minute'];
+            }
+
+            if($_POST['seconde']!="")
+            {
+                $seconde=$_POST['seconde'];
+            }
+
+
+            if(bool_is_int($minute) && bool_is_int($seconde) )
+                {
+                    
+                    $minute=$minute+variant_int($seconde/60);
+                    $heure=variant_int($minute/60);
+                    $minute=$minute%60; 
+
+
+                }
+            else
+            {
+                    $erreur=1;
+                    $texte_erreur="Format Incorrecte";
+            }
+
+        }
+
+        
+
+
+
+        if(erreur==0)
+        {
+            echo " $heure h $minute ";
+        }
+        else if(erreur==1)
+        {
+            echo $texte_erreur;
+        }
+    }
+    ?>
+
+
+    <form action="" method="post">
+
+        <div>
+            Minutes : secondes
+            <input type="text" name="temps" id="temps" />
+        </div>
+
+        OU 
+
+        <div>
+            Minutes 
+            <input type="text" name="minute" id="minute" />
+
+            Secondes 
+            <input type="text" name="seconde" id="seconde" />
+
+        </div>
+
+        <input type="submit" id="boutonValider" value="Valider">
+
+    </form>
+
+   
+
+
+    <script >
+        //Code Javascript pour qu'il choisisse de remplir UN     
+        var bouton = document.getElementById('boutonValider');
+
+
+        bouton.onclick = function() {
+
+            var temps=document.getElementById('temps');
+            var minute=document.getElementById('minute');
+            var seconde=document.getElementById('seconde');
+
+            if(temps.value!="" && (minute.value!="" || seconde.value!=""))
+            {
+                alert('Il faut la première methode ou la deuxième');
+            }
+         };
+
+
+
+        
+    </script>
+</body>
+
+</html>
