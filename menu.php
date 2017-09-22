@@ -129,22 +129,22 @@
                 <!-------------------------SECTION ETUDIANT-------------------------->
                 <!-------------------------SECTION ETUDIANT-------------------------->
 
-                    <li class="active student">
+                    <li class=" student <?php echo (isset($_SESSION['page']) && $_SESSION['page']=="index")?"active":"" ?>">
                         <a href="./"><i class="fa fa-fw fa-dashboard"></i> Dashboard</a>
                     </li>
 
-                    <li class="student">
+                    <li class="student <?php echo (isset($_SESSION['page']) && $_SESSION['page']=="monnaie")?"active":"" ?>">
                         <a href="monnaie.php"><i class="fa fa-money fa-fw"></i> Wallet</a>
                     </li>
-                   <li class="student">
-                        <a href="monnaie.php"><i class="fa fa-money fa-fw"></i> Choices</a>
+                   <li class="student <?php echo (isset($_SESSION['page']) && $_SESSION['page']=="choice")?"active":"" ?>">
+                        <a href="choice.php"><i class="fa fa-money fa-fw"></i> Choices</a>
                     </li>
-                    <li class="all_users">
+                    <li class="all_users <?php echo (isset($_SESSION['page']) && $_SESSION['page']=="password")?"active":"" ?>">
                         <a href="password.php"><i class="glyphicon glyphicon-lock"></i> Password</a>
                     </li>
 
                    
-                   <li class="all_users">
+                   <!--<li class="all_users <?php echo (isset($_SESSION['page']) && $_SESSION['page']=="index")?"active":"" ?>">
                         <a href="javascript:;" data-toggle="collapse" data-target="#demo2"><i class="glyphicon glyphicon-question-sign"></i> Help <i class="fa fa-fw fa-caret-down"></i></a>
                         <ul id="demo2" class="collapse">
                             <li>
@@ -155,8 +155,8 @@
                             </li>
                             
                         </ul>
-                    </li>
-                    <li class="all_users">
+                    </li>-->
+                    <li class="all_users ">
                         <a href="logout/"><i class="fa fa-power-off"></i> Disconnect</a>
                     </li>
 
