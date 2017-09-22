@@ -1,5 +1,5 @@
 <?php 
-$_SESSION['page']="monnaie";
+$_SESSION['page']="choice";
 ?>
 <!DOCTYPE html>
 <html lang="en">
@@ -145,104 +145,38 @@ $_SESSION['page']="monnaie";
                             </div>
                             <div class="panel-body">
 
+
+
                                 <div class="table-responsive">
                                     <table class="table table-bordered table-hover table-striped">
                                         <thead>
                                         <tr>
-                                            <th rowspan="2" >Date</th>
-                                            <th rowspan="2" >Reason</th>
-                                            <th colspan="3">Tokens</th>
-                                            <th colspan="3">Regret point</th>
+                                            <th>Year</th>
+                                            <th>Level</th>
+                                            <th>Semester</th>
+                                            <th>Consultation name</th>
+                                            <th>Choice</th>
+                                            <th>Option</th>
 
                                         </tr>
-                                        <tr>
-                                            <th >Used</th>
-                                            <th >Obtained</th>
-                                            <th >Total remaining</th>
-                                            <th >Used</th>
-                                            <th >Obtained</th>
-                                            <th >Total remaining</th>
 
-                                        </tr>
                                         </thead>
                                         <tbody>
 
                                         <?php
-                                        $token_remaining=0;
-                                        $regret_point_remaining=0;
-
-                                        $current_token=0;
-                                        $current_regret_point=0;
-
-                                        $number_of_token=1;
-                                        $number_of_regret_point=1;
 
 
-                                        foreach ($liste_donnees_utilisation_monnaie as $donnees)
+
+                                        while ($previous_assignment=$list_previous_assignment->fetch())
                                         {
-                                            if($donnees['about_token']==1)
-                                            {
-
-                                                //about_token==1 then it is a data about token
-
-                                                $current_token=$donnees['number'];
-                                                $current_regret_point="";
-
-                                                if($number_of_token==1)
-                                                {
-                                                    //the first data is the initial number of Token
-                                                    $token_remaining=$current_token;
-                                                    $current_token="";
-                                                }
-                                                else
-                                                {
-                                                    //After the first data, we are the number of Token used by the Student
-                                                    $token_remaining+=$current_token;
-                                                }
-
-                                                $number_of_token++;
-                                                $number_of_regret_point++;
-                                            }
-                                            else if($donnees['about_token']==0)
-                                            {
-                                                //about_token==0 then it is a data about regret_point
-
-                                                $current_token="";
-                                                $current_regret_point=$donnees['number'];
-
-                                                if($number_of_regret_point==1)
-                                                {
-                                                    //the first data is the initial number of Token
-                                                    $regret_point_remaining=$current_regret_point;
-                                                    $current_regret_point="";
-
-                                                }
-                                                else
-                                                {
-                                                    //After the first data, we are the number of Token used by the Student
-                                                    $regret_point_remaining+=$current_regret_point;
-                                                }
-
-
-                                                $number_of_regret_point++;
-                                                $number_of_token++;
-                                            }
-
-
-
                                             ?>
                                             <tr>
-
-                                                <td><?php echo $donnees["date"]  ?></td>
-                                                <td><?php echo $donnees["reason"]  ?></td>
-                                                <td><?php echo ($current_token<0)?abs($current_token):"" ?></td>
-                                                <td><?php echo ($current_token>0)?$current_token:"" ?></td>
-                                                <td><?php  echo $token_remaining ?></td>
-
-                                                <td><?php echo ($current_regret_point<0)?abs($current_regret_point):"" ?></td>
-                                                <td><?php echo ($current_regret_point>0)?$current_regret_point:"" ?></td>
-
-                                                <td><?php  echo $regret_point_remaining ?></td>
+                                                <td><?php echo $previous_assignment['academic_year_label'] ?></td>
+                                                <td><?php echo $previous_assignment['year_level_label'] ?></td>
+                                                <td><?php echo $previous_assignment['semester_name'] ?></td>
+                                                <td><?php echo $previous_assignment['consultation_name'] ?></td>
+                                                <td><?php echo $previous_assignment['choice_name'] ?></td>
+                                                <td><?php echo $previous_assignment['option_name'] ?></td>
                                             </tr>
 
                                             <?php
@@ -252,6 +186,8 @@ $_SESSION['page']="monnaie";
                                         </tbody>
                                     </table>
                                 </div>
+
+
 
                                <!-- <div class="text-right">
                                     <a href="#">Voir évolution du porte monnaie <i class="fa fa-arrow-circle-right"></i></a>

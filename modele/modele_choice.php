@@ -20,39 +20,16 @@
 
 
 
-$list_use_wallet_data=$connexion->getWalletUse($student_id);
+//$list_use_wallet_data=$connexion->getWalletUse($student_id);
 
+$list_previous_assignment=$connexion->getListAcademicYearForStudent($student_id);
 
 
 $liste_donnees_utilisation_monnaie=array();
 //$donnees=array();
 $indice=0;
 
-while($use_wallet_data=$list_use_wallet_data->fetch())
-{
-    /*$donnees_utilisation_monnaie = array(
-        'date' => $use_wallet_data['date'],
-        'number' => $use_wallet_data['number'],
-        'about_token' => $use_wallet_data['about_token'],
-        'reason' => $use_wallet_data['reason']
-    );*/
 
-    array_push(
-        $liste_donnees_utilisation_monnaie,
-        array(
-            'date' => $use_wallet_data['date'],
-            'reason' => $use_wallet_data['reason'],
-            'number' => $use_wallet_data['number'],
-            'about_token' => $use_wallet_data['about_token'],
-            'reason' => $use_wallet_data['reason']
-        )
-    );
-
-    //	$donnees_utilisation_monnaie);
-    //$liste_donnees_utilisation_monnaie[$indice]=$donnees_utilisation_monnaie;
-    //$indice++;
-    //$donnees_utilisation_monnaie[$indice]=
-}
 
 	//for each line, we need 
 	/*

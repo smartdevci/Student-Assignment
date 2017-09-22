@@ -2,13 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="df34d7e4-6fe0-4cb0-94c1-72b67533b016" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modele/modele_choice.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vue/vue_choice.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/menu.php" afterPath="$PROJECT_DIR$/menu.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/modele/modele_monnaie.php" afterPath="$PROJECT_DIR$/modele/modele_monnaie.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ok.php" afterPath="$PROJECT_DIR$/ok.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vue/vue_monnaie.php" afterPath="$PROJECT_DIR$/vue/vue_monnaie.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/modele/modele_choice.php" afterPath="$PROJECT_DIR$/modele/modele_choice.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vue/vue_choice.php" afterPath="$PROJECT_DIR$/vue/vue_choice.php" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -24,17 +19,7 @@
         <entry file="file://$PROJECT_DIR$/modele/modele_etudiant_plus.php">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="210">
-              <caret line="10" column="66" lean-forward="true" selection-start-line="10" selection-start-column="66" selection-end-line="10" selection-end-column="66" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="vue_monnaie.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/vue/vue_monnaie.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1910">
-              <caret line="224" column="0" lean-forward="true" selection-start-line="224" selection-start-column="0" selection-end-line="224" selection-end-column="0" />
+              <caret line="11" column="0" lean-forward="true" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -73,8 +58,8 @@
       <file leaf-file-name="modele_choice.php" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/modele/modele_choice.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <state relative-caret-position="495">
+              <caret line="31" column="0" lean-forward="true" selection-start-line="31" selection-start-column="0" selection-end-line="31" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -103,8 +88,18 @@
       <file leaf-file-name="vue_choice.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/vue/vue_choice.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <state relative-caret-position="817">
+              <caret line="187" column="38" lean-forward="false" selection-start-line="187" selection-start-column="38" selection-end-line="187" selection-end-column="38" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="vue_etudiant_plus.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/vue/vue_etudiant_plus.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="402">
+              <caret line="307" column="44" lean-forward="true" selection-start-line="307" selection-start-column="44" selection-end-line="345" selection-end-column="50" />
               <folding />
             </state>
           </provider>
@@ -149,6 +144,8 @@
       <find>histor</find>
       <find>Wallet use</find>
       <find>monnai</find>
+      <find>table</find>
+      <find>Previous assignments</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -192,6 +189,8 @@
         <option value="$PROJECT_DIR$/ok.php" />
         <option value="$PROJECT_DIR$/menu.php" />
         <option value="$PROJECT_DIR$/choice.php" />
+        <option value="$PROJECT_DIR$/vue/vue_choice.php" />
+        <option value="$PROJECT_DIR$/modele/modele_choice.php" />
       </list>
     </option>
   </component>
@@ -386,12 +385,12 @@
       <workItem from="1502545820552" duration="17000" />
       <workItem from="1503753566879" duration="2628000" />
       <workItem from="1503956673001" duration="2768000" />
-      <workItem from="1506065116823" duration="7851000" />
+      <workItem from="1506065116823" duration="9479000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="80083000" />
+    <option name="totallyTimeSpent" value="81711000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-9" y="-9" width="1938" height="1060" extended-state="6" />
@@ -802,14 +801,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/vue/vue_etudiant_plus.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="355">
-          <caret line="380" column="31" lean-forward="false" selection-start-line="380" selection-start-column="31" selection-end-line="486" selection-end-column="38" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/etudiant_plus.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -830,14 +821,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="84">
           <caret line="4" column="9" lean-forward="false" selection-start-line="4" selection-start-column="9" selection-end-line="4" selection-end-column="9" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/modele/modele_etudiant_plus.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="10" column="66" lean-forward="true" selection-start-line="10" selection-start-column="66" selection-end-line="10" selection-end-column="66" />
           <folding />
         </state>
       </provider>
@@ -866,10 +849,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/vue/vue_choice.php">
+    <entry file="file://$PROJECT_DIR$/monnaie.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        <state relative-caret-position="42">
+          <caret line="2" column="0" lean-forward="false" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
           <folding />
         </state>
       </provider>
@@ -882,18 +865,34 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/monnaie.php">
+    <entry file="file://$PROJECT_DIR$/vue/vue_choice.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="42">
-          <caret line="2" column="0" lean-forward="false" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
+        <state relative-caret-position="817">
+          <caret line="187" column="38" lean-forward="false" selection-start-line="187" selection-start-column="38" selection-end-line="187" selection-end-column="38" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vue/vue_etudiant_plus.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="402">
+          <caret line="307" column="44" lean-forward="true" selection-start-line="307" selection-start-column="44" selection-end-line="345" selection-end-column="50" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/modele/modele_etudiant_plus.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="11" column="0" lean-forward="true" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/modele/modele_choice.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        <state relative-caret-position="495">
+          <caret line="31" column="0" lean-forward="true" selection-start-line="31" selection-start-column="0" selection-end-line="31" selection-end-column="0" />
           <folding />
         </state>
       </provider>
