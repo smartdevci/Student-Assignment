@@ -3,10 +3,10 @@
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta name="description" content="La tontine en ligne, tontinte50, placement d'argent en ligne">
-    <meta name="author" content="SmartDev">
+    <meta name="description" content="INSA, etablissement informatique, Université Rennes 1 INSA">
+    <meta name="author" content="Melaine">
 
-    <title>La Soladarité en un click..</title>
+    <title>Student Assignment</title>
 
     <!-- Bootstrap Core CSS -->
     <link href="../css/bootstrap.min.css" rel="stylesheet" type="text/css">

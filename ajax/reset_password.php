@@ -17,7 +17,7 @@ if(isset($_GET['student_id']))
     $connexion=DAO::getConnection();
 
     $query=$connexion->prepare("
-        UPDATE students SET password=:password WHERE student_id=:student_id
+        UPDATE students SET password=:password, password_changed=0 WHERE student_id=:student_id
     ");
 
     $query->bindValue(':password',$password,PDO::PARAM_STR);

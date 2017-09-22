@@ -10,9 +10,14 @@
 	$connexion->cancelData();
 
 	/*******Consultation****************/
-	$number_consultation=3;
-	$number_consultation_having_assignment=2;
-	$last_consultation_date="12/05/2014";
+	$number_consultation=$connexion->getNumberConsultation();
+	$number_consultation_having_assignment=$connexion->getNumberConsultationNoResult();
+
+	$data=$connexion->getLastConsultation();
+	$last_consultation_date=$data['la_date'];
+
+	$number_of_student=$connexion->getNumberStudent();
+	$number_of_student_automatic_password=$connexion->getNumberStudentAutomaticPassword();
 
 	
 

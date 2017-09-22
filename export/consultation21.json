@@ -1,0 +1,251 @@
+{
+	"etudiants" : [ 
+	{
+		"nom" : "Jean-Pierre Def",
+		"prenom" : "",
+		"id" : "27",
+		"extra_case" : "rien",
+		"consultation" : [ 
+		{
+			"id_etudiant" : "27",
+			"id_choix" : "24",
+			"id_option" : "74",
+			"bids" : "0",
+			"preference" : "4" 
+		},
+		{
+			"id_etudiant" : "27",
+			"id_choix" : "24",
+			"id_option" : "75",
+			"bids" : "0",
+			"preference" : "2" 
+		},
+		{
+			"id_etudiant" : "27",
+			"id_choix" : "24",
+			"id_option" : "76",
+			"bids" : "0",
+			"preference" : "3" 
+		},
+		{
+			"id_etudiant" : "27",
+			"id_choix" : "23",
+			"id_option" : "70",
+			"bids" : "0",
+			"preference" : "7" 
+		},
+		{
+			"id_etudiant" : "27",
+			"id_choix" : "23",
+			"id_option" : "72",
+			"bids" : "0",
+			"preference" : "5" 
+		},
+		{
+			"id_etudiant" : "27",
+			"id_choix" : "23",
+			"id_option" : "73",
+			"bids" : "20",
+			"preference" : "1",
+			"arguments" : ["agjdhklfjkaf fsjqklhf= OPAZUdopùja","\"jq MK=HAFKLhklsfiazupçr\"\"\"\"iêpa :-) ;-)\""]
+
+		},
+		{
+			"id_etudiant" : "27",
+			"id_choix" : "23",
+			"id_option" : "71",
+			"bids" : "0",
+			"preference" : "6" 
+		} 
+
+	]} ,
+
+	{
+		"nom" : "Lucie Ali Abc",
+		"prenom" : "",
+		"id" : "26",
+		"extra_case" : "rien",
+		"consultation" : [ 
+		{
+			"id_etudiant" : "26",
+			"id_choix" : "24",
+			"id_option" : "74",
+			"bids" : "2",
+			"preference" : "2",
+			"arguments" : ["Autre essai €$*£`dskqj``"]
+
+		},
+		{
+			"id_etudiant" : "26",
+			"id_choix" : "24",
+			"id_option" : "75",
+			"bids" : "0",
+			"preference" : "7" 
+		},
+		{
+			"id_etudiant" : "26",
+			"id_choix" : "24",
+			"id_option" : "76",
+			"bids" : "0",
+			"preference" : "6" 
+		},
+		{
+			"id_etudiant" : "26",
+			"id_choix" : "23",
+			"id_option" : "70",
+			"bids" : "18",
+			"preference" : "1",
+			"arguments" : ["\"Premisdhqjsdqsj ('\"\"\"\"@&amp;é\"\"\"\"é''§èy ca alors \"","\"Deuxième argument @&amp;&amp;é\"\"\"\"'\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"''''(§§(à(!è§à(èç)\"","Troisième (§ù^)çà)!à),;:=%ùûï---__°0987654321"]
+
+		},
+		{
+			"id_etudiant" : "26",
+			"id_choix" : "23",
+			"id_option" : "72",
+			"bids" : "0",
+			"preference" : "4" 
+		},
+		{
+			"id_etudiant" : "26",
+			"id_choix" : "23",
+			"id_option" : "73",
+			"bids" : "0",
+			"preference" : "5" 
+		},
+		{
+			"id_etudiant" : "26",
+			"id_choix" : "23",
+			"id_option" : "71",
+			"bids" : "0",
+			"preference" : "3" 
+		} 
+
+	]} ,
+
+	{
+		"nom" : "Marie-Joséphine G'Houarec",
+		"prenom" : "",
+		"id" : "28",
+		"extra_case" : "rien",
+		"consultation" : [ 
+		{
+			"id_etudiant" : "28",
+			"id_choix" : "24",
+			"id_option" : "74",
+			"bids" : "0",
+			"preference" : "3" 
+		},
+		{
+			"id_etudiant" : "28",
+			"id_choix" : "24",
+			"id_option" : "75",
+			"bids" : "0",
+			"preference" : "7" 
+		},
+		{
+			"id_etudiant" : "28",
+			"id_choix" : "24",
+			"id_option" : "76",
+			"bids" : "2",
+			"preference" : "2" 
+		},
+		{
+			"id_etudiant" : "28",
+			"id_choix" : "23",
+			"id_option" : "70",
+			"bids" : "0",
+			"preference" : "5" 
+		},
+		{
+			"id_etudiant" : "28",
+			"id_choix" : "23",
+			"id_option" : "72",
+			"bids" : "0",
+			"preference" : "6" 
+		},
+		{
+			"id_etudiant" : "28",
+			"id_choix" : "23",
+			"id_option" : "73",
+			"bids" : "0",
+			"preference" : "4" 
+		},
+		{
+			"id_etudiant" : "28",
+			"id_choix" : "23",
+			"id_option" : "71",
+			"bids" : "10",
+			"preference" : "1",
+			"arguments" : ["Je veux absolument cette option"]
+
+		} 
+
+	]}  
+
+
+ ], 
+ 
+
+"Choix" : [ 
+{
+		"nom" : "ModuleOuverture",
+		"id" : "24",
+		"options" : [ 
+		{
+			"nom" : "IA",
+			"id" : "74",
+			"place_min" : "0",
+			"place_maxi" : "100"
+		} ,
+		{
+			"nom" : "PM",
+			"id" : "75",
+			"place_min" : "0",
+			"place_maxi" : "100"
+		} ,
+		{
+			"nom" : "Robot",
+			"id" : "76",
+			"place_min" : "0",
+			"place_maxi" : "100"
+		}  
+
+		]
+} ,
+
+{
+		"nom" : "Option",
+		"id" : "23",
+		"options" : [ 
+		{
+			"nom" : "BigData",
+			"id" : "70",
+			"place_min" : "0",
+			"place_maxi" : "100"
+		} ,
+		{
+			"nom" : "Media",
+			"id" : "72",
+			"place_min" : "0",
+			"place_maxi" : "100"
+		} ,
+		{
+			"nom" : "Secu",
+			"id" : "73",
+			"place_min" : "0",
+			"place_maxi" : "100"
+		} ,
+		{
+			"nom" : "SLE",
+			"id" : "71",
+			"place_min" : "0",
+			"place_maxi" : "100"
+		}  
+
+		]
+}  
+
+],
+
+"consultation" : 21
+}

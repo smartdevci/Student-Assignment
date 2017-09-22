@@ -82,9 +82,9 @@
                             <li  class="all_users" >
                                 <a href="password.php">Change my password</a>
                             </li>
-                            <li  class="admin" >
+                            <!--<li  class="admin" >
                                 <a href="">Reset student password</a>
-                            </li>
+                            </li>-->
                              
                         </ul>
                     </li>

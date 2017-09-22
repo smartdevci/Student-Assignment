@@ -1,7 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="df34d7e4-6fe0-4cb0-94c1-72b67533b016" name="Default" comment="" />
+    <list default="true" id="df34d7e4-6fe0-4cb0-94c1-72b67533b016" name="Default" comment="">
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vote_file/old/vote2.csv" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_class/DAO.php" afterPath="$PROJECT_DIR$/_class/DAO.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ajax/reset_password.php" afterPath="$PROJECT_DIR$/ajax/reset_password.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/importation.php" afterPath="$PROJECT_DIR$/importation.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/login/Inc/head-balise.php" afterPath="$PROJECT_DIR$/login/Inc/head-balise.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/login_password.txt" afterPath="$PROJECT_DIR$/login_password.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/menu.php" afterPath="$PROJECT_DIR$/menu.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/modele/modele_etudiant_plus.php" afterPath="$PROJECT_DIR$/modele/modele_etudiant_plus.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/modele/modele_index.php" afterPath="$PROJECT_DIR$/modele/modele_index.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vote_file/vote.csv" afterPath="$PROJECT_DIR$/vote_file/vote.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vue/vue_etudiant.php" afterPath="$PROJECT_DIR$/vue/vue_etudiant.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vue/vue_index.php" afterPath="$PROJECT_DIR$/vue/vue_index.php" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -12,44 +26,12 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
-      <file leaf-file-name="vue_index.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/vue/vue_index.php">
+      <file leaf-file-name="importation.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/importation.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="588">
-              <caret line="76" column="49" lean-forward="false" selection-start-line="76" selection-start-column="49" selection-end-line="76" selection-end-column="49" />
+            <state relative-caret-position="21">
+              <caret line="1" column="10" lean-forward="false" selection-start-line="1" selection-start-column="10" selection-end-line="1" selection-end-column="10" />
               <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="connexion.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/login/js/connexion.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="273">
-              <caret line="13" column="6" lean-forward="false" selection-start-line="13" selection-start-column="6" selection-end-line="13" selection-end-column="6" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="index.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/login/index.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="462">
-              <caret line="22" column="26" lean-forward="true" selection-start-line="22" selection-start-column="26" selection-end-line="22" selection-end-column="26" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="login-section.php" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/login/Inc/login-section.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="441">
-              <caret line="21" column="68" lean-forward="true" selection-start-line="21" selection-start-column="68" selection-end-line="21" selection-end-column="68" />
-              <folding>
-                <element signature="n#style#0;n#section#0;n#!!top" expanded="true" />
-              </folding>
             </state>
           </provider>
         </entry>
@@ -57,49 +39,71 @@
       <file leaf-file-name="modele_index.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/modele/modele_index.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="126">
-              <caret line="6" column="7" lean-forward="false" selection-start-line="6" selection-start-column="7" selection-end-line="6" selection-end-column="7" />
+            <state relative-caret-position="231">
+              <caret line="11" column="41" lean-forward="true" selection-start-line="11" selection-start-column="41" selection-end-line="11" selection-end-column="41" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="session_var.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/session_var.php">
+      <file leaf-file-name="vue_index.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/vue/vue_index.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="525">
-              <caret line="25" column="39" lean-forward="true" selection-start-line="25" selection-start-column="10" selection-end-line="25" selection-end-column="39" />
+            <state relative-caret-position="520">
+              <caret line="171" column="35" lean-forward="false" selection-start-line="171" selection-start-column="35" selection-end-line="171" selection-end-column="35" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="vue_index_student.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/vue/vue_index_student.php">
+      <file leaf-file-name="head-balise.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/login/Inc/head-balise.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="504">
-              <caret line="90" column="0" lean-forward="true" selection-start-line="90" selection-start-column="0" selection-end-line="90" selection-end-column="0" />
+            <state relative-caret-position="128">
+              <caret line="8" column="29" lean-forward="false" selection-start-line="8" selection-start-column="29" selection-end-line="8" selection-end-column="29" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="init_student.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/init_student.php">
+      <file leaf-file-name="vue_etudiant.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/vue/vue_etudiant.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="84">
-              <caret line="4" column="9" lean-forward="false" selection-start-line="4" selection-start-column="9" selection-end-line="4" selection-end-column="9" />
+            <state relative-caret-position="630">
+              <caret line="131" column="119" lean-forward="false" selection-start-line="131" selection-start-column="119" selection-end-line="131" selection-end-column="119" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="se_connecter.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/login/js/se_connecter.php">
+      <file leaf-file-name="vue_etudiant_plus.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/vue/vue_etudiant_plus.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="168">
-              <caret line="8" column="22" lean-forward="false" selection-start-line="8" selection-start-column="17" selection-end-line="8" selection-end-column="22" />
+            <state relative-caret-position="717">
+              <caret line="492" column="30" lean-forward="true" selection-start-line="373" selection-start-column="25" selection-end-line="492" selection-end-column="30" />
               <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="reset_password.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/js/reset_password.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="105">
+              <caret line="5" column="47" lean-forward="false" selection-start-line="5" selection-start-column="37" selection-end-line="5" selection-end-column="47" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="reset_password.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ajax/reset_password.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="294">
+              <caret line="19" column="66" lean-forward="false" selection-start-line="19" selection-start-column="66" selection-end-line="19" selection-end-column="66" />
+              <folding>
+                <marker date="1506082336250" expanded="true" signature="331:418" ph="UPDATE stude... " />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -107,67 +111,92 @@
       <file leaf-file-name="DAO.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/_class/DAO.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="426">
-              <caret line="732" column="29" lean-forward="true" selection-start-line="732" selection-start-column="29" selection-end-line="732" selection-end-column="29" />
+            <state relative-caret-position="17514">
+              <caret line="834" column="46" lean-forward="false" selection-start-line="834" selection-start-column="13" selection-end-line="834" selection-end-column="46" />
               <folding>
-                <marker date="1502024758999" expanded="true" signature="637:686" ph="SELECT * FRO... students" />
-                <marker date="1502024758999" expanded="true" signature="826:976" ph="SELECT * FRO... students" />
-                <marker date="1502024758999" expanded="true" signature="874:958" ph="SELECT stude... vote" />
-                <marker date="1502024758999" expanded="true" signature="1193:1238" ph="SELECT * FRO... semester" />
-                <marker date="1502024758999" expanded="true" signature="1659:1709" ph="SELECT * FRO... year_level" />
-                <marker date="1502024758999" expanded="true" signature="2022:2055" ph="SELECT * FRO... year_level" />
-                <marker date="1502024758999" expanded="true" signature="2022:2065" ph="SELECT * FRO... user_type" />
-                <marker date="1502024758999" expanded="true" signature="2421:2579" ph="SELECT * FRO... user" />
-                <marker date="1502024758999" expanded="true" signature="2421:2620" ph="SELECT user_... user" />
-                <marker date="1502024758999" expanded="true" signature="2421:2643" ph="SELECT * FRO... " />
-                <marker date="1502024758999" expanded="true" signature="3012:3185" ph="SELECT * FRO... proposedoption" />
-                <marker date="1502024758999" expanded="true" signature="3674:3718" ph="SELECT MAX(i... " />
-                <marker date="1502024758999" expanded="true" signature="3912:3953" ph="SELECT * FRO... students" />
-                <marker date="1502024758999" expanded="true" signature="4983:5105" ph="SELECT stude... vote" />
-                <marker date="1502024758999" expanded="true" signature="5421:5533" ph="UPDATE stude... " />
-                <marker date="1502024758999" expanded="true" signature="5796:5927" ph="SELECT * FRO... consultation" />
-                <marker date="1502024758999" expanded="true" signature="5846:5926" ph="SELECT consu... instance" />
-                <marker date="1502024758999" expanded="true" signature="7096:7128" ph="UPDATE stude... " />
-                <marker date="1502024758999" expanded="true" signature="7331:7366" ph="DELETE FROM " />
-                <marker date="1502024758999" expanded="true" signature="8246:8281" ph="DELETE FROM " />
-                <marker date="1502024758999" expanded="true" signature="8338:8350" ph="DELETE FROM " />
-                <marker date="1502024758999" expanded="true" signature="8692:8807" ph="INSERT INTO use_token... " />
-                <marker date="1502024758999" expanded="true" signature="9395:9524" ph="INSERT INTO use_token... " />
-                <marker date="1502024758999" expanded="true" signature="9919:10319" ph="SELECT * ,DA... " />
-                <marker date="1502024758999" expanded="true" signature="10448:10620" ph="SELECT * ,DA... " />
-                <marker date="1502024758999" expanded="true" signature="10834:11142" ph="SELECT * ,DA... " />
-                <marker date="1502024758999" expanded="true" signature="11337:11378" ph="SELECT * FRO... choice" />
-                <marker date="1502024758999" expanded="true" signature="11583:11751" ph="SELECT * FRO... choice" />
-                <marker date="1502024758999" expanded="true" signature="11632:11725" ph="SELECT choic... proposedchoice" />
-                <marker date="1502024758999" expanded="true" signature="12012:12173" ph="SELECT * FRO... choice" />
-                <marker date="1502024758999" expanded="true" signature="12446:12636" ph="SELECT * FRO... options" />
-                <marker date="1502024758999" expanded="true" signature="12492:12610" ph="SELECT optio... proposedoption" />
-                <marker date="1502024758999" expanded="true" signature="13007:13054" ph="SELECT * FRO... vote" />
-                <marker date="1502024758999" expanded="true" signature="13320:13467" ph="SELECT * FRO... vote" />
-                <marker date="1502024758999" expanded="true" signature="13841:13928" ph="SELECT * FRO... vote" />
-                <marker date="1502024758999" expanded="true" signature="14198:14453" ph="SELECT * FRO... vote" />
-                <marker date="1502024758999" expanded="true" signature="14796:15088" ph="SELECT * FRO... assignment_details" />
-                <marker date="1502024758999" expanded="true" signature="14994:15087" ph="SELECT assig... assignment" />
-                <marker date="1502024758999" expanded="true" signature="15395:15567" ph="SELECT * FRO... vote" />
-                <marker date="1502024758999" expanded="true" signature="16238:16323" ph="SELECT * FRO... user" />
-                <marker date="1502024758999" expanded="true" signature="16238:16381" ph="SELECT admin... " />
-                <marker date="1502024758999" expanded="true" signature="16238:16394" ph="SELECT admin... " />
-                <marker date="1502024758999" expanded="true" signature="16238:16438" ph="SELECT admin... " />
-                <marker date="1502024758999" expanded="true" signature="16351:16381" ph="SELECT stude... " />
-                <marker date="1502024758999" expanded="true" signature="16868:16911" ph="SELECT * FRO... students" />
-                <marker date="1502024758999" expanded="true" signature="17796:17834" ph="SELECT * FRO... admin" />
-                <marker date="1502024758999" expanded="true" signature="18467:18984" ph="SELECT * FRO... assignment_details" />
-                <marker date="1502024758999" expanded="true" signature="19237:19441" ph="SELECT * FRO... assignment_details" />
-                <marker date="1502024758999" expanded="true" signature="19722:19855" ph="SELECT * , D... " />
-                <marker date="1502024758999" expanded="true" signature="20195:20459" ph="SELECT * FRO... assignment_details" />
-                <marker date="1502024758999" expanded="true" signature="20303:20396" ph="SELECT assig... assignment" />
-                <marker date="1502024758999" expanded="true" signature="20847:21076" ph="SELECT * FRO... choice" />
-                <marker date="1502024758999" expanded="true" signature="20897:21071" ph="SELECT DISTI... assignment_details" />
-                <marker date="1502024758999" expanded="true" signature="20977:21070" ph="SELECT assig... assignment" />
-                <marker date="1502024758999" expanded="true" signature="21340:21573" ph="SELECT * FRO... students" />
-                <marker date="1502024758999" expanded="true" signature="21393:21568" ph="SELECT DISTI... assignment_details" />
-                <marker date="1502024758999" expanded="true" signature="21474:21567" ph="SELECT assig... assignment" />
-                <marker date="1502024758999" expanded="true" signature="21836:21937" ph="UPDATE assig... " />
+                <marker date="1503959406251" expanded="true" signature="637:686" ph="SELECT * FRO... students" />
+                <marker date="1503959406251" expanded="true" signature="826:976" ph="SELECT * FRO... students" />
+                <marker date="1503959406251" expanded="true" signature="874:958" ph="SELECT stude... vote" />
+                <marker date="1503959406251" expanded="true" signature="1193:1238" ph="SELECT * FRO... semester" />
+                <marker date="1503959406251" expanded="true" signature="1659:1709" ph="SELECT * FRO... year_level" />
+                <marker date="1503959406251" expanded="true" signature="2022:2055" ph="SELECT * FRO... year_level" />
+                <marker date="1503959406251" expanded="true" signature="2022:2065" ph="SELECT * FRO... user_type" />
+                <marker date="1503959406251" expanded="true" signature="2421:2579" ph="SELECT * FRO... user" />
+                <marker date="1503959406251" expanded="true" signature="2421:2620" ph="SELECT user_... user" />
+                <marker date="1503959406251" expanded="true" signature="2421:2643" ph="SELECT * FRO... " />
+                <marker date="1503959406251" expanded="true" signature="3012:3185" ph="SELECT * FRO... proposedoption" />
+                <marker date="1503959406251" expanded="true" signature="3674:3718" ph="SELECT MAX(i... " />
+                <marker date="1503959406251" expanded="true" signature="3912:3953" ph="SELECT * FRO... students" />
+                <marker date="1503959406251" expanded="true" signature="4983:5105" ph="SELECT stude... vote" />
+                <marker date="1503959406251" expanded="true" signature="5421:5533" ph="UPDATE stude... " />
+                <marker date="1503959406251" expanded="true" signature="5796:5927" ph="SELECT * FRO... consultation" />
+                <marker date="1503959406251" expanded="true" signature="5846:5926" ph="SELECT consu... instance" />
+                <marker date="1503959406251" expanded="true" signature="7096:7128" ph="UPDATE stude... " />
+                <marker date="1503959406251" expanded="true" signature="7331:7366" ph="DELETE FROM " />
+                <marker date="1503959406251" expanded="true" signature="8246:8281" ph="DELETE FROM " />
+                <marker date="1503959406251" expanded="true" signature="8338:8350" ph="DELETE FROM " />
+                <marker date="1503959406251" expanded="true" signature="8692:8807" ph="INSERT INTO use_token... " />
+                <marker date="1503959406251" expanded="true" signature="9395:9524" ph="INSERT INTO use_token... " />
+                <marker date="1503959406251" expanded="true" signature="9919:10319" ph="SELECT * ,DA... " />
+                <marker date="1503959406251" expanded="true" signature="10448:10620" ph="SELECT * ,DA... " />
+                <marker date="1503959406251" expanded="true" signature="10834:11142" ph="SELECT * ,DA... " />
+                <marker date="1503959406251" expanded="true" signature="11337:11378" ph="SELECT * FRO... choice" />
+                <marker date="1503959406251" expanded="true" signature="11583:11751" ph="SELECT * FRO... choice" />
+                <marker date="1503959406251" expanded="true" signature="11632:11725" ph="SELECT choic... proposedchoice" />
+                <marker date="1503959406251" expanded="true" signature="12012:12173" ph="SELECT * FRO... choice" />
+                <marker date="1503959406251" expanded="true" signature="12446:12636" ph="SELECT * FRO... options" />
+                <marker date="1503959406251" expanded="true" signature="12492:12610" ph="SELECT optio... proposedoption" />
+                <marker date="1503959406251" expanded="true" signature="13007:13054" ph="SELECT * FRO... vote" />
+                <marker date="1503959406251" expanded="true" signature="13320:13467" ph="SELECT * FRO... vote" />
+                <marker date="1503959406251" expanded="true" signature="13841:13928" ph="SELECT * FRO... vote" />
+                <marker date="1503959406251" expanded="true" signature="14198:14453" ph="SELECT * FRO... vote" />
+                <marker date="1503959406251" expanded="true" signature="14796:15088" ph="SELECT * FRO... assignment_details" />
+                <marker date="1503959406251" expanded="true" signature="14994:15087" ph="SELECT assig... assignment" />
+                <marker date="1503959406251" expanded="true" signature="15395:15567" ph="SELECT * FRO... vote" />
+                <marker date="1503959406251" expanded="true" signature="16238:16323" ph="SELECT * FRO... user" />
+                <marker date="1503959406251" expanded="true" signature="16238:16381" ph="SELECT admin... " />
+                <marker date="1503959406251" expanded="true" signature="16238:16394" ph="SELECT admin... " />
+                <marker date="1503959406251" expanded="true" signature="16238:16438" ph="SELECT admin... " />
+                <marker date="1503959406251" expanded="true" signature="16351:16381" ph="SELECT stude... " />
+                <marker date="1503959406251" expanded="true" signature="16868:16911" ph="SELECT * FRO... students" />
+                <marker date="1503959406251" expanded="true" signature="17796:17834" ph="SELECT * FRO... admin" />
+                <marker date="1503959406251" expanded="true" signature="18425:18439" ph="SELECT * FRO... assignment_details" />
+                <marker date="1503959406251" expanded="true" signature="18425:18447" ph="SELECT * FRO... instance" />
+                <marker date="1503959406251" expanded="true" signature="18425:18449" ph="SELECT * FRO... instance" />
+                <marker date="1503959406251" expanded="true" signature="18596:18618" ph="SELECT * FRO... students" />
+                <marker date="1503959406251" expanded="true" signature="18784:18831" ph="SELECT * FRO... students" />
+                <marker date="1503959406251" expanded="true" signature="18993:19015" ph="SELECT * FRO... instance" />
+                <marker date="1503959406251" expanded="true" signature="18993:19026" ph="SELECT * FRO... instance" />
+                <marker date="1503959406251" expanded="true" signature="18993:19032" ph="SELECT * FRO... instance" />
+                <marker date="1503959406251" expanded="true" signature="19185:19325" ph="SELECT *,DAT... instance" />
+                <marker date="1503959406251" expanded="true" signature="19287:19324" ph="SELECT MAX(i... instance" />
+                <marker date="1503959406251" expanded="true" signature="19402:19448" ph="/********get... " />
+                <marker date="1503959406251" expanded="true" signature="19548:20065" ph="SELECT * FRO... assignment_details" />
+                <marker date="1503959406251" expanded="true" signature="20318:20522" ph="SELECT * FRO... assignment_details" />
+                <marker date="1503959406251" expanded="true" signature="20803:20936" ph="SELECT * , D... " />
+                <marker date="1503959406251" expanded="true" signature="21276:21540" ph="SELECT * FRO... assignment_details" />
+                <marker date="1503959406251" expanded="true" signature="21384:21477" ph="SELECT assig... assignment" />
+                <marker date="1503959406251" expanded="true" signature="21928:22157" ph="SELECT * FRO... choice" />
+                <marker date="1503959406251" expanded="true" signature="21978:22152" ph="SELECT DISTI... assignment_details" />
+                <marker date="1503959406251" expanded="true" signature="22058:22151" ph="SELECT assig... assignment" />
+                <marker date="1503959406251" expanded="true" signature="22421:22654" ph="SELECT * FRO... students" />
+                <marker date="1503959406251" expanded="true" signature="22474:22649" ph="SELECT DISTI... assignment_details" />
+                <marker date="1503959406251" expanded="true" signature="22555:22648" ph="SELECT assig... assignment" />
+                <marker date="1503959406251" expanded="true" signature="22917:23018" ph="UPDATE assig... " />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Consultation.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/_class/Consultation.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="693">
+              <caret line="33" column="0" lean-forward="true" selection-start-line="33" selection-start-column="0" selection-end-line="33" selection-end-column="0" />
+              <folding>
+                <marker date="1501165537890" expanded="true" signature="472:531" ph="INSERT INTO Consultation... " />
+                <marker date="1501165537890" expanded="true" signature="899:960" ph="SELECT * FRO... consultation" />
+                <marker date="1501165537890" expanded="true" signature="1306:1362" ph="SELECT * FRO... consultation" />
               </folding>
             </state>
           </provider>
@@ -193,36 +222,50 @@
       <find>ok</find>
       <find>getStudent</find>
       <find>getId</find>
+      <find>TYPE_ADMIN</find>
+      <find>$list_vote_warning</find>
+      <find>Fichier importé avec succ</find>
+      <find>vardump</find>
+      <find>var_dump</find>
+      <find>Remaining token</find>
     </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/index.php" />
         <option value="$PROJECT_DIR$/modele/modele_index_student.php" />
-        <option value="$PROJECT_DIR$/modele/modele_index.php" />
         <option value="$PROJECT_DIR$/_class/Student.php" />
         <option value="$PROJECT_DIR$/js/reset_password.js" />
         <option value="$PROJECT_DIR$/vue/vue_etudiant_plus.php" />
-        <option value="$PROJECT_DIR$/ajax/reset_password.php" />
         <option value="$PROJECT_DIR$/ajax/modifier_max_bid.php" />
         <option value="$PROJECT_DIR$/ajax/edit_user.php" />
         <option value="$PROJECT_DIR$/modele/modele_user.php" />
-        <option value="$PROJECT_DIR$/menu.php" />
         <option value="$PROJECT_DIR$/ajax/add_user.php" />
         <option value="$PROJECT_DIR$/ajax/delete_user.php" />
         <option value="$PROJECT_DIR$/js/users.js" />
         <option value="$PROJECT_DIR$/vue/vue_user.php" />
         <option value="$PROJECT_DIR$/all_class.php" />
-        <option value="$PROJECT_DIR$/_class/DAO.php" />
         <option value="$PROJECT_DIR$/_class/Admin.php" />
         <option value="$PROJECT_DIR$/init_student.php" />
         <option value="$PROJECT_DIR$/login/session_var.php" />
         <option value="$PROJECT_DIR$/session_var.php" />
-        <option value="$PROJECT_DIR$/vue/vue_index.php" />
         <option value="$PROJECT_DIR$/vue/vue_index_student.php" />
         <option value="$PROJECT_DIR$/login/js/connexion.js" />
         <option value="$PROJECT_DIR$/login/Inc/login-section.php" />
+        <option value="$PROJECT_DIR$/modele/modele_etudiant_plus.php" />
+        <option value="$PROJECT_DIR$/menu.php" />
+        <option value="$PROJECT_DIR$/vue/vue_import.php" />
+        <option value="$PROJECT_DIR$/importation.php" />
+        <option value="$PROJECT_DIR$/_class/DAO.php" />
+        <option value="$PROJECT_DIR$/modele/modele_index.php" />
+        <option value="$PROJECT_DIR$/vue/vue_index.php" />
+        <option value="$PROJECT_DIR$/login/Inc/head-balise.php" />
+        <option value="$PROJECT_DIR$/vue/vue_etudiant.php" />
+        <option value="$PROJECT_DIR$/ajax/reset_password.php" />
       </list>
     </option>
   </component>
@@ -234,10 +277,10 @@
   </component>
   <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
   <component name="ProjectFrameBounds">
-    <option name="x" value="2391" />
+    <option name="x" value="-9" />
     <option name="y" value="-9" />
-    <option name="width" value="2418" />
-    <option name="height" value="1331" />
+    <option name="width" value="1938" />
+    <option name="height" value="1060" />
   </component>
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1">
@@ -254,7 +297,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -277,45 +319,14 @@
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="login" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="www.stage.com" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="www.stage.com" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="login" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Inc" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="www.stage.com" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="www.stage.com" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="_class" />
+              <option name="myItemId" value="vue" />
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
       <pane id="Scope" />
+      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -426,14 +437,18 @@
       <updated>1501649091307</updated>
       <workItem from="1501649092636" duration="7027000" />
       <workItem from="1501709213030" duration="59792000" />
+      <workItem from="1502545820552" duration="17000" />
+      <workItem from="1503753566879" duration="2628000" />
+      <workItem from="1503956673001" duration="2768000" />
+      <workItem from="1506065116823" duration="3981000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="66819000" />
+    <option name="totallyTimeSpent" value="76213000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="2391" y="-9" width="2418" height="1331" extended-state="6" />
+    <frame x="-9" y="-9" width="1938" height="1060" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -441,7 +456,7 @@
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -466,6 +481,106 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/init_student.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="84">
+          <caret line="4" column="9" lean-forward="false" selection-start-line="4" selection-start-column="9" selection-end-line="4" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/login/js/se_connecter.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="8" column="22" lean-forward="false" selection-start-line="8" selection-start-column="17" selection-end-line="8" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_class/DAO.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15372">
+          <caret line="732" column="29" lean-forward="true" selection-start-line="732" selection-start-column="29" selection-end-line="732" selection-end-column="29" />
+          <folding>
+            <marker date="1503959406251" expanded="true" signature="637:686" ph="SELECT * FRO... students" />
+            <marker date="1503959406251" expanded="true" signature="826:976" ph="SELECT * FRO... students" />
+            <marker date="1503959406251" expanded="true" signature="874:958" ph="SELECT stude... vote" />
+            <marker date="1503959406251" expanded="true" signature="1193:1238" ph="SELECT * FRO... semester" />
+            <marker date="1503959406251" expanded="true" signature="1659:1709" ph="SELECT * FRO... year_level" />
+            <marker date="1503959406251" expanded="true" signature="2022:2055" ph="SELECT * FRO... year_level" />
+            <marker date="1503959406251" expanded="true" signature="2022:2065" ph="SELECT * FRO... user_type" />
+            <marker date="1503959406251" expanded="true" signature="2421:2579" ph="SELECT * FRO... user" />
+            <marker date="1503959406251" expanded="true" signature="2421:2620" ph="SELECT user_... user" />
+            <marker date="1503959406251" expanded="true" signature="2421:2643" ph="SELECT * FRO... " />
+            <marker date="1503959406251" expanded="true" signature="3012:3185" ph="SELECT * FRO... proposedoption" />
+            <marker date="1503959406251" expanded="true" signature="3674:3718" ph="SELECT MAX(i... " />
+            <marker date="1503959406251" expanded="true" signature="3912:3953" ph="SELECT * FRO... students" />
+            <marker date="1503959406251" expanded="true" signature="4983:5105" ph="SELECT stude... vote" />
+            <marker date="1503959406251" expanded="true" signature="5421:5533" ph="UPDATE stude... " />
+            <marker date="1503959406251" expanded="true" signature="5796:5927" ph="SELECT * FRO... consultation" />
+            <marker date="1503959406251" expanded="true" signature="5846:5926" ph="SELECT consu... instance" />
+            <marker date="1503959406251" expanded="true" signature="7096:7128" ph="UPDATE stude... " />
+            <marker date="1503959406251" expanded="true" signature="7331:7366" ph="DELETE FROM " />
+            <marker date="1503959406251" expanded="true" signature="8246:8281" ph="DELETE FROM " />
+            <marker date="1503959406251" expanded="true" signature="8338:8350" ph="DELETE FROM " />
+            <marker date="1503959406251" expanded="true" signature="8692:8807" ph="INSERT INTO use_token... " />
+            <marker date="1503959406251" expanded="true" signature="9395:9524" ph="INSERT INTO use_token... " />
+            <marker date="1503959406251" expanded="true" signature="9919:10319" ph="SELECT * ,DA... " />
+            <marker date="1503959406251" expanded="true" signature="10448:10620" ph="SELECT * ,DA... " />
+            <marker date="1503959406251" expanded="true" signature="10834:11142" ph="SELECT * ,DA... " />
+            <marker date="1503959406251" expanded="true" signature="11337:11378" ph="SELECT * FRO... choice" />
+            <marker date="1503959406251" expanded="true" signature="11583:11751" ph="SELECT * FRO... choice" />
+            <marker date="1503959406251" expanded="true" signature="11632:11725" ph="SELECT choic... proposedchoice" />
+            <marker date="1503959406251" expanded="true" signature="12012:12173" ph="SELECT * FRO... choice" />
+            <marker date="1503959406251" expanded="true" signature="12446:12636" ph="SELECT * FRO... options" />
+            <marker date="1503959406251" expanded="true" signature="12492:12610" ph="SELECT optio... proposedoption" />
+            <marker date="1503959406251" expanded="true" signature="13007:13054" ph="SELECT * FRO... vote" />
+            <marker date="1503959406251" expanded="true" signature="13320:13467" ph="SELECT * FRO... vote" />
+            <marker date="1503959406251" expanded="true" signature="13841:13928" ph="SELECT * FRO... vote" />
+            <marker date="1503959406251" expanded="true" signature="14198:14453" ph="SELECT * FRO... vote" />
+            <marker date="1503959406251" expanded="true" signature="14796:15088" ph="SELECT * FRO... assignment_details" />
+            <marker date="1503959406251" expanded="true" signature="14994:15087" ph="SELECT assig... assignment" />
+            <marker date="1503959406251" expanded="true" signature="15395:15567" ph="SELECT * FRO... vote" />
+            <marker date="1503959406251" expanded="true" signature="16238:16323" ph="SELECT * FRO... user" />
+            <marker date="1503959406251" expanded="true" signature="16238:16381" ph="SELECT admin... " />
+            <marker date="1503959406251" expanded="true" signature="16238:16394" ph="SELECT admin... " />
+            <marker date="1503959406251" expanded="true" signature="16238:16438" ph="SELECT admin... " />
+            <marker date="1503959406251" expanded="true" signature="16351:16381" ph="SELECT stude... " />
+            <marker date="1503959406251" expanded="true" signature="16868:16911" ph="SELECT * FRO... students" />
+            <marker date="1503959406251" expanded="true" signature="17796:17834" ph="SELECT * FRO... admin" />
+            <marker date="1503959406251" expanded="true" signature="18425:18439" ph="SELECT * FRO... assignment_details" />
+            <marker date="1503959406251" expanded="true" signature="18425:18447" ph="SELECT * FRO... instance" />
+            <marker date="1503959406251" expanded="true" signature="18425:18449" ph="SELECT * FRO... instance" />
+            <marker date="1503959406251" expanded="true" signature="18596:18618" ph="SELECT * FRO... students" />
+            <marker date="1503959406251" expanded="true" signature="18784:18831" ph="SELECT * FRO... students" />
+            <marker date="1503959406251" expanded="true" signature="18993:19015" ph="SELECT * FRO... instance" />
+            <marker date="1503959406251" expanded="true" signature="18993:19026" ph="SELECT * FRO... instance" />
+            <marker date="1503959406251" expanded="true" signature="18993:19032" ph="SELECT * FRO... instance" />
+            <marker date="1503959406251" expanded="true" signature="19185:19325" ph="SELECT *,DAT... instance" />
+            <marker date="1503959406251" expanded="true" signature="19287:19324" ph="SELECT MAX(i... instance" />
+            <marker date="1503959406251" expanded="true" signature="19402:19448" ph="/********get... " />
+            <marker date="1503959406251" expanded="true" signature="19548:20065" ph="SELECT * FRO... assignment_details" />
+            <marker date="1503959406251" expanded="true" signature="20318:20522" ph="SELECT * FRO... assignment_details" />
+            <marker date="1503959406251" expanded="true" signature="20803:20936" ph="SELECT * , D... " />
+            <marker date="1503959406251" expanded="true" signature="21276:21540" ph="SELECT * FRO... assignment_details" />
+            <marker date="1503959406251" expanded="true" signature="21384:21477" ph="SELECT assig... assignment" />
+            <marker date="1503959406251" expanded="true" signature="21928:22157" ph="SELECT * FRO... choice" />
+            <marker date="1503959406251" expanded="true" signature="21978:22152" ph="SELECT DISTI... assignment_details" />
+            <marker date="1503959406251" expanded="true" signature="22058:22151" ph="SELECT assig... assignment" />
+            <marker date="1503959406251" expanded="true" signature="22421:22654" ph="SELECT * FRO... students" />
+            <marker date="1503959406251" expanded="true" signature="22474:22649" ph="SELECT DISTI... assignment_details" />
+            <marker date="1503959406251" expanded="true" signature="22555:22648" ph="SELECT assig... assignment" />
+            <marker date="1503959406251" expanded="true" signature="22917:23018" ph="UPDATE assig... " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/login/Inc/login-section.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="441">
+          <caret line="21" column="68" lean-forward="true" selection-start-line="21" selection-start-column="68" selection-end-line="21" selection-end-column="68" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/vue/vue_index.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -478,7 +593,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="21">
           <caret line="1" column="6" lean-forward="false" selection-start-line="1" selection-start-column="6" selection-end-line="1" selection-end-column="6" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -494,7 +608,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="672">
           <caret line="32" column="7" lean-forward="false" selection-start-line="32" selection-start-column="7" selection-end-line="32" selection-end-column="7" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -502,7 +615,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="231">
           <caret line="11" column="0" lean-forward="true" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -510,7 +622,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="21">
           <caret line="1" column="16" lean-forward="false" selection-start-line="1" selection-start-column="16" selection-end-line="1" selection-end-column="16" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -518,7 +629,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="21">
           <caret line="1" column="16" lean-forward="false" selection-start-line="1" selection-start-column="16" selection-end-line="1" selection-end-column="16" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -526,7 +636,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="21">
           <caret line="1" column="6" lean-forward="false" selection-start-line="1" selection-start-column="6" selection-end-line="1" selection-end-column="6" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -534,42 +643,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="105">
           <caret line="5" column="4" lean-forward="false" selection-start-line="1" selection-start-column="4" selection-end-line="5" selection-end-column="4" />
-          <folding>
-            <marker date="1501245249280" expanded="true" signature="297:398" ph="UPDATE stude... " />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ajax/reset_password.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="504">
-          <caret line="24" column="10" lean-forward="false" selection-start-line="24" selection-start-column="10" selection-end-line="24" selection-end-column="10" />
-          <folding>
-            <element signature="e#6#89#0#PHP" expanded="true" />
-            <marker date="1501762144567" expanded="true" signature="331:398" ph="UPDATE stude... " />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/js/reset_password.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="63">
-          <caret line="5" column="47" lean-forward="false" selection-start-line="5" selection-start-column="37" selection-end-line="5" selection-end-column="47" />
-          <folding>
-            <element signature="e#0#44#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/vue/vue_etudiant_plus.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="631">
-          <caret line="516" column="140" lean-forward="false" selection-start-line="516" selection-start-column="140" selection-end-line="516" selection-end-column="140" />
-          <folding>
-            <element signature="n#style#0;n#a#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#1;n#div#0;n#div#2;n#div#1;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#style#0;n#div#3;n#div#2;n#div#1;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#style#0;n#a#0;n#div#3;n#div#2;n#div#1;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -577,7 +650,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -585,7 +657,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="21">
           <caret line="16" column="3" lean-forward="true" selection-start-line="16" selection-start-column="3" selection-end-line="16" selection-end-column="3" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -593,9 +664,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="231">
           <caret line="11" column="0" lean-forward="true" selection-start-line="9" selection-start-column="4" selection-end-line="11" selection-end-column="0" />
-          <folding>
-            <marker date="1498204616504" expanded="true" signature="196:318" ph="UPDATE stude... " />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -603,10 +671,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="733">
           <caret line="36" column="0" lean-forward="true" selection-start-line="36" selection-start-column="0" selection-end-line="36" selection-end-column="0" />
-          <folding>
-            <element signature="e#6#89#0#PHP" expanded="true" />
-            <marker date="1501882294943" expanded="true" signature="301:439" ph="UPDATE propo... " />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -614,12 +678,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="630">
           <caret line="30" column="80" lean-forward="false" selection-start-line="30" selection-start-column="80" selection-end-line="30" selection-end-column="80" />
-          <folding>
-            <element signature="e#6#89#0#PHP" expanded="true" />
-            <marker date="1501931668151" expanded="true" signature="228:269" ph="SELECT * FRO... user" />
-            <marker date="1501931668151" expanded="true" signature="632:671" ph="DELETE FROM " />
-            <marker date="1501931668151" expanded="true" signature="816:858" ph="DELETE FROM " />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -627,9 +685,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <marker date="1500624866183" expanded="true" signature="242:380" ph="UPDATE propo... " />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -637,19 +692,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="378">
           <caret line="18" column="0" lean-forward="true" selection-start-line="10" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
-          <folding>
-            <marker date="1501926643573" expanded="true" signature="205:246" ph="SELECT * FRO... user" />
-            <marker date="1501926643573" expanded="true" signature="468:526" ph="UPDATE user " />
-            <marker date="1501926643573" expanded="true" signature="750:815" ph="UPDATE admin... " />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/menu.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="168">
-          <caret line="53" column="79" lean-forward="false" selection-start-line="53" selection-start-column="79" selection-end-line="53" selection-end-column="79" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -657,7 +699,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="21">
           <caret line="1" column="20" lean-forward="false" selection-start-line="1" selection-start-column="20" selection-end-line="1" selection-end-column="20" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -665,12 +706,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="882">
           <caret line="42" column="14" lean-forward="false" selection-start-line="42" selection-start-column="14" selection-end-line="42" selection-end-column="14" />
-          <folding>
-            <element signature="e#6#89#0#PHP" expanded="true" />
-            <marker date="1501930063654" expanded="true" signature="302:354" ph="INSERT INTO admin... " />
-            <marker date="1501930063654" expanded="true" signature="313:354" ph="UPDATE admin... " />
-            <marker date="1501930063654" expanded="true" signature="629:720" ph="INSERT INTO admin... " />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -678,9 +713,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="722">
           <caret line="153" column="20" lean-forward="false" selection-start-line="153" selection-start-column="20" selection-end-line="153" selection-end-column="20" />
-          <folding>
-            <element signature="e#0#44#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -688,7 +720,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="735">
           <caret line="185" column="38" lean-forward="true" selection-start-line="185" selection-start-column="38" selection-end-line="185" selection-end-column="38" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -726,74 +757,35 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="294">
           <caret line="14" column="35" lean-forward="false" selection-start-line="14" selection-start-column="35" selection-end-line="14" selection-end-column="35" />
-          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_class/DAO.php">
+    <entry file="file://$PROJECT_DIR$/login/js/connexion.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="426">
-          <caret line="732" column="29" lean-forward="true" selection-start-line="732" selection-start-column="29" selection-end-line="732" selection-end-column="29" />
-          <folding>
-            <marker date="1502024758999" expanded="true" signature="637:686" ph="SELECT * FRO... students" />
-            <marker date="1502024758999" expanded="true" signature="826:976" ph="SELECT * FRO... students" />
-            <marker date="1502024758999" expanded="true" signature="874:958" ph="SELECT stude... vote" />
-            <marker date="1502024758999" expanded="true" signature="1193:1238" ph="SELECT * FRO... semester" />
-            <marker date="1502024758999" expanded="true" signature="1659:1709" ph="SELECT * FRO... year_level" />
-            <marker date="1502024758999" expanded="true" signature="2022:2055" ph="SELECT * FRO... year_level" />
-            <marker date="1502024758999" expanded="true" signature="2022:2065" ph="SELECT * FRO... user_type" />
-            <marker date="1502024758999" expanded="true" signature="2421:2579" ph="SELECT * FRO... user" />
-            <marker date="1502024758999" expanded="true" signature="2421:2620" ph="SELECT user_... user" />
-            <marker date="1502024758999" expanded="true" signature="2421:2643" ph="SELECT * FRO... " />
-            <marker date="1502024758999" expanded="true" signature="3012:3185" ph="SELECT * FRO... proposedoption" />
-            <marker date="1502024758999" expanded="true" signature="3674:3718" ph="SELECT MAX(i... " />
-            <marker date="1502024758999" expanded="true" signature="3912:3953" ph="SELECT * FRO... students" />
-            <marker date="1502024758999" expanded="true" signature="4983:5105" ph="SELECT stude... vote" />
-            <marker date="1502024758999" expanded="true" signature="5421:5533" ph="UPDATE stude... " />
-            <marker date="1502024758999" expanded="true" signature="5796:5927" ph="SELECT * FRO... consultation" />
-            <marker date="1502024758999" expanded="true" signature="5846:5926" ph="SELECT consu... instance" />
-            <marker date="1502024758999" expanded="true" signature="7096:7128" ph="UPDATE stude... " />
-            <marker date="1502024758999" expanded="true" signature="7331:7366" ph="DELETE FROM " />
-            <marker date="1502024758999" expanded="true" signature="8246:8281" ph="DELETE FROM " />
-            <marker date="1502024758999" expanded="true" signature="8338:8350" ph="DELETE FROM " />
-            <marker date="1502024758999" expanded="true" signature="8692:8807" ph="INSERT INTO use_token... " />
-            <marker date="1502024758999" expanded="true" signature="9395:9524" ph="INSERT INTO use_token... " />
-            <marker date="1502024758999" expanded="true" signature="9919:10319" ph="SELECT * ,DA... " />
-            <marker date="1502024758999" expanded="true" signature="10448:10620" ph="SELECT * ,DA... " />
-            <marker date="1502024758999" expanded="true" signature="10834:11142" ph="SELECT * ,DA... " />
-            <marker date="1502024758999" expanded="true" signature="11337:11378" ph="SELECT * FRO... choice" />
-            <marker date="1502024758999" expanded="true" signature="11583:11751" ph="SELECT * FRO... choice" />
-            <marker date="1502024758999" expanded="true" signature="11632:11725" ph="SELECT choic... proposedchoice" />
-            <marker date="1502024758999" expanded="true" signature="12012:12173" ph="SELECT * FRO... choice" />
-            <marker date="1502024758999" expanded="true" signature="12446:12636" ph="SELECT * FRO... options" />
-            <marker date="1502024758999" expanded="true" signature="12492:12610" ph="SELECT optio... proposedoption" />
-            <marker date="1502024758999" expanded="true" signature="13007:13054" ph="SELECT * FRO... vote" />
-            <marker date="1502024758999" expanded="true" signature="13320:13467" ph="SELECT * FRO... vote" />
-            <marker date="1502024758999" expanded="true" signature="13841:13928" ph="SELECT * FRO... vote" />
-            <marker date="1502024758999" expanded="true" signature="14198:14453" ph="SELECT * FRO... vote" />
-            <marker date="1502024758999" expanded="true" signature="14796:15088" ph="SELECT * FRO... assignment_details" />
-            <marker date="1502024758999" expanded="true" signature="14994:15087" ph="SELECT assig... assignment" />
-            <marker date="1502024758999" expanded="true" signature="15395:15567" ph="SELECT * FRO... vote" />
-            <marker date="1502024758999" expanded="true" signature="16238:16323" ph="SELECT * FRO... user" />
-            <marker date="1502024758999" expanded="true" signature="16238:16381" ph="SELECT admin... " />
-            <marker date="1502024758999" expanded="true" signature="16238:16394" ph="SELECT admin... " />
-            <marker date="1502024758999" expanded="true" signature="16238:16438" ph="SELECT admin... " />
-            <marker date="1502024758999" expanded="true" signature="16351:16381" ph="SELECT stude... " />
-            <marker date="1502024758999" expanded="true" signature="16868:16911" ph="SELECT * FRO... students" />
-            <marker date="1502024758999" expanded="true" signature="17796:17834" ph="SELECT * FRO... admin" />
-            <marker date="1502024758999" expanded="true" signature="18467:18984" ph="SELECT * FRO... assignment_details" />
-            <marker date="1502024758999" expanded="true" signature="19237:19441" ph="SELECT * FRO... assignment_details" />
-            <marker date="1502024758999" expanded="true" signature="19722:19855" ph="SELECT * , D... " />
-            <marker date="1502024758999" expanded="true" signature="20195:20459" ph="SELECT * FRO... assignment_details" />
-            <marker date="1502024758999" expanded="true" signature="20303:20396" ph="SELECT assig... assignment" />
-            <marker date="1502024758999" expanded="true" signature="20847:21076" ph="SELECT * FRO... choice" />
-            <marker date="1502024758999" expanded="true" signature="20897:21071" ph="SELECT DISTI... assignment_details" />
-            <marker date="1502024758999" expanded="true" signature="20977:21070" ph="SELECT assig... assignment" />
-            <marker date="1502024758999" expanded="true" signature="21340:21573" ph="SELECT * FRO... students" />
-            <marker date="1502024758999" expanded="true" signature="21393:21568" ph="SELECT DISTI... assignment_details" />
-            <marker date="1502024758999" expanded="true" signature="21474:21567" ph="SELECT assig... assignment" />
-            <marker date="1502024758999" expanded="true" signature="21836:21937" ph="UPDATE assig... " />
-          </folding>
+        <state relative-caret-position="273">
+          <caret line="13" column="6" lean-forward="false" selection-start-line="13" selection-start-column="6" selection-end-line="13" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/login/Inc/login-section.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="773">
+          <caret line="55" column="14" lean-forward="true" selection-start-line="55" selection-start-column="14" selection-end-line="55" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/session_var.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="525">
+          <caret line="25" column="39" lean-forward="false" selection-start-line="25" selection-start-column="10" selection-end-line="25" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vue/vue_index_student.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1088">
+          <caret line="90" column="0" lean-forward="false" selection-start-line="90" selection-start-column="0" selection-end-line="90" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -801,22 +793,47 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="168">
           <caret line="8" column="22" lean-forward="false" selection-start-line="8" selection-start-column="17" selection-end-line="8" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/login/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="462">
+          <caret line="22" column="26" lean-forward="false" selection-start-line="22" selection-start-column="26" selection-end-line="22" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/modele/modele_etudiant_plus.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="65" lean-forward="false" selection-start-line="10" selection-start-column="65" selection-end-line="10" selection-end-column="65" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/modele/modele_index.php">
+    <entry file="file://$PROJECT_DIR$/menu.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="126">
-          <caret line="6" column="7" lean-forward="false" selection-start-line="6" selection-start-column="7" selection-end-line="6" selection-end-column="7" />
+        <state relative-caret-position="1309">
+          <caret line="77" column="20" lean-forward="false" selection-start-line="77" selection-start-column="20" selection-end-line="77" selection-end-column="20" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/vue/vue_index.php">
+    <entry file="file://$PROJECT_DIR$/ajax/warning.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="588">
-          <caret line="76" column="49" lean-forward="false" selection-start-line="76" selection-start-column="49" selection-end-line="76" selection-end-column="49" />
+        <state relative-caret-position="1407">
+          <caret line="67" column="109" lean-forward="false" selection-start-line="67" selection-start-column="109" selection-end-line="67" selection-end-column="109" />
+          <folding>
+            <marker date="1501148704307" expanded="true" signature="295:391" ph="SELECT DISTI... vote" />
+            <marker date="1501148704307" expanded="true" signature="641:890" ph="SELECT * FRO... vote" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/import.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="5" column="19" lean-forward="true" selection-start-line="5" selection-start-column="19" selection-end-line="5" selection-end-column="19" />
           <folding />
         </state>
       </provider>
@@ -829,45 +846,175 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/session_var.php">
+    <entry file="file://$PROJECT_DIR$/modele/modele_import.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="525">
-          <caret line="25" column="39" lean-forward="true" selection-start-line="25" selection-start-column="10" selection-end-line="25" selection-end-column="39" />
+        <state relative-caret-position="168">
+          <caret line="8" column="24" lean-forward="true" selection-start-line="8" selection-start-column="24" selection-end-line="8" selection-end-column="24" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/vue/vue_index_student.php">
+    <entry file="file://$PROJECT_DIR$/vue/vue_import.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="504">
-          <caret line="90" column="0" lean-forward="true" selection-start-line="90" selection-start-column="0" selection-end-line="90" selection-end-column="0" />
+        <state relative-caret-position="1365">
+          <caret line="65" column="29" lean-forward="true" selection-start-line="65" selection-start-column="29" selection-end-line="65" selection-end-column="29" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/login/js/connexion.js">
+    <entry file="file://$PROJECT_DIR$/importation.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="273">
-          <caret line="13" column="6" lean-forward="false" selection-start-line="13" selection-start-column="6" selection-end-line="13" selection-end-column="6" />
+        <state relative-caret-position="21">
+          <caret line="1" column="10" lean-forward="false" selection-start-line="1" selection-start-column="10" selection-end-line="1" selection-end-column="10" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/login/index.php">
+    <entry file="file://$PROJECT_DIR$/_class/Consultation.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="462">
-          <caret line="22" column="26" lean-forward="true" selection-start-line="22" selection-start-column="26" selection-end-line="22" selection-end-column="26" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/login/Inc/login-section.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="441">
-          <caret line="21" column="68" lean-forward="true" selection-start-line="21" selection-start-column="68" selection-end-line="21" selection-end-column="68" />
+        <state relative-caret-position="693">
+          <caret line="33" column="0" lean-forward="true" selection-start-line="33" selection-start-column="0" selection-end-line="33" selection-end-column="0" />
           <folding>
-            <element signature="n#style#0;n#section#0;n#!!top" expanded="true" />
+            <marker date="1501165537890" expanded="true" signature="472:531" ph="INSERT INTO Consultation... " />
+            <marker date="1501165537890" expanded="true" signature="899:960" ph="SELECT * FRO... consultation" />
+            <marker date="1501165537890" expanded="true" signature="1306:1362" ph="SELECT * FRO... consultation" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_class/DAO.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17514">
+          <caret line="834" column="46" lean-forward="false" selection-start-line="834" selection-start-column="13" selection-end-line="834" selection-end-column="46" />
+          <folding>
+            <marker date="1503959406251" expanded="true" signature="637:686" ph="SELECT * FRO... students" />
+            <marker date="1503959406251" expanded="true" signature="826:976" ph="SELECT * FRO... students" />
+            <marker date="1503959406251" expanded="true" signature="874:958" ph="SELECT stude... vote" />
+            <marker date="1503959406251" expanded="true" signature="1193:1238" ph="SELECT * FRO... semester" />
+            <marker date="1503959406251" expanded="true" signature="1659:1709" ph="SELECT * FRO... year_level" />
+            <marker date="1503959406251" expanded="true" signature="2022:2055" ph="SELECT * FRO... year_level" />
+            <marker date="1503959406251" expanded="true" signature="2022:2065" ph="SELECT * FRO... user_type" />
+            <marker date="1503959406251" expanded="true" signature="2421:2579" ph="SELECT * FRO... user" />
+            <marker date="1503959406251" expanded="true" signature="2421:2620" ph="SELECT user_... user" />
+            <marker date="1503959406251" expanded="true" signature="2421:2643" ph="SELECT * FRO... " />
+            <marker date="1503959406251" expanded="true" signature="3012:3185" ph="SELECT * FRO... proposedoption" />
+            <marker date="1503959406251" expanded="true" signature="3674:3718" ph="SELECT MAX(i... " />
+            <marker date="1503959406251" expanded="true" signature="3912:3953" ph="SELECT * FRO... students" />
+            <marker date="1503959406251" expanded="true" signature="4983:5105" ph="SELECT stude... vote" />
+            <marker date="1503959406251" expanded="true" signature="5421:5533" ph="UPDATE stude... " />
+            <marker date="1503959406251" expanded="true" signature="5796:5927" ph="SELECT * FRO... consultation" />
+            <marker date="1503959406251" expanded="true" signature="5846:5926" ph="SELECT consu... instance" />
+            <marker date="1503959406251" expanded="true" signature="7096:7128" ph="UPDATE stude... " />
+            <marker date="1503959406251" expanded="true" signature="7331:7366" ph="DELETE FROM " />
+            <marker date="1503959406251" expanded="true" signature="8246:8281" ph="DELETE FROM " />
+            <marker date="1503959406251" expanded="true" signature="8338:8350" ph="DELETE FROM " />
+            <marker date="1503959406251" expanded="true" signature="8692:8807" ph="INSERT INTO use_token... " />
+            <marker date="1503959406251" expanded="true" signature="9395:9524" ph="INSERT INTO use_token... " />
+            <marker date="1503959406251" expanded="true" signature="9919:10319" ph="SELECT * ,DA... " />
+            <marker date="1503959406251" expanded="true" signature="10448:10620" ph="SELECT * ,DA... " />
+            <marker date="1503959406251" expanded="true" signature="10834:11142" ph="SELECT * ,DA... " />
+            <marker date="1503959406251" expanded="true" signature="11337:11378" ph="SELECT * FRO... choice" />
+            <marker date="1503959406251" expanded="true" signature="11583:11751" ph="SELECT * FRO... choice" />
+            <marker date="1503959406251" expanded="true" signature="11632:11725" ph="SELECT choic... proposedchoice" />
+            <marker date="1503959406251" expanded="true" signature="12012:12173" ph="SELECT * FRO... choice" />
+            <marker date="1503959406251" expanded="true" signature="12446:12636" ph="SELECT * FRO... options" />
+            <marker date="1503959406251" expanded="true" signature="12492:12610" ph="SELECT optio... proposedoption" />
+            <marker date="1503959406251" expanded="true" signature="13007:13054" ph="SELECT * FRO... vote" />
+            <marker date="1503959406251" expanded="true" signature="13320:13467" ph="SELECT * FRO... vote" />
+            <marker date="1503959406251" expanded="true" signature="13841:13928" ph="SELECT * FRO... vote" />
+            <marker date="1503959406251" expanded="true" signature="14198:14453" ph="SELECT * FRO... vote" />
+            <marker date="1503959406251" expanded="true" signature="14796:15088" ph="SELECT * FRO... assignment_details" />
+            <marker date="1503959406251" expanded="true" signature="14994:15087" ph="SELECT assig... assignment" />
+            <marker date="1503959406251" expanded="true" signature="15395:15567" ph="SELECT * FRO... vote" />
+            <marker date="1503959406251" expanded="true" signature="16238:16323" ph="SELECT * FRO... user" />
+            <marker date="1503959406251" expanded="true" signature="16238:16381" ph="SELECT admin... " />
+            <marker date="1503959406251" expanded="true" signature="16238:16394" ph="SELECT admin... " />
+            <marker date="1503959406251" expanded="true" signature="16238:16438" ph="SELECT admin... " />
+            <marker date="1503959406251" expanded="true" signature="16351:16381" ph="SELECT stude... " />
+            <marker date="1503959406251" expanded="true" signature="16868:16911" ph="SELECT * FRO... students" />
+            <marker date="1503959406251" expanded="true" signature="17796:17834" ph="SELECT * FRO... admin" />
+            <marker date="1503959406251" expanded="true" signature="18425:18439" ph="SELECT * FRO... assignment_details" />
+            <marker date="1503959406251" expanded="true" signature="18425:18447" ph="SELECT * FRO... instance" />
+            <marker date="1503959406251" expanded="true" signature="18425:18449" ph="SELECT * FRO... instance" />
+            <marker date="1503959406251" expanded="true" signature="18596:18618" ph="SELECT * FRO... students" />
+            <marker date="1503959406251" expanded="true" signature="18784:18831" ph="SELECT * FRO... students" />
+            <marker date="1503959406251" expanded="true" signature="18993:19015" ph="SELECT * FRO... instance" />
+            <marker date="1503959406251" expanded="true" signature="18993:19026" ph="SELECT * FRO... instance" />
+            <marker date="1503959406251" expanded="true" signature="18993:19032" ph="SELECT * FRO... instance" />
+            <marker date="1503959406251" expanded="true" signature="19185:19325" ph="SELECT *,DAT... instance" />
+            <marker date="1503959406251" expanded="true" signature="19287:19324" ph="SELECT MAX(i... instance" />
+            <marker date="1503959406251" expanded="true" signature="19402:19448" ph="/********get... " />
+            <marker date="1503959406251" expanded="true" signature="19548:20065" ph="SELECT * FRO... assignment_details" />
+            <marker date="1503959406251" expanded="true" signature="20318:20522" ph="SELECT * FRO... assignment_details" />
+            <marker date="1503959406251" expanded="true" signature="20803:20936" ph="SELECT * , D... " />
+            <marker date="1503959406251" expanded="true" signature="21276:21540" ph="SELECT * FRO... assignment_details" />
+            <marker date="1503959406251" expanded="true" signature="21384:21477" ph="SELECT assig... assignment" />
+            <marker date="1503959406251" expanded="true" signature="21928:22157" ph="SELECT * FRO... choice" />
+            <marker date="1503959406251" expanded="true" signature="21978:22152" ph="SELECT DISTI... assignment_details" />
+            <marker date="1503959406251" expanded="true" signature="22058:22151" ph="SELECT assig... assignment" />
+            <marker date="1503959406251" expanded="true" signature="22421:22654" ph="SELECT * FRO... students" />
+            <marker date="1503959406251" expanded="true" signature="22474:22649" ph="SELECT DISTI... assignment_details" />
+            <marker date="1503959406251" expanded="true" signature="22555:22648" ph="SELECT assig... assignment" />
+            <marker date="1503959406251" expanded="true" signature="22917:23018" ph="UPDATE assig... " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/modele/modele_index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="231">
+          <caret line="11" column="41" lean-forward="true" selection-start-line="11" selection-start-column="41" selection-end-line="11" selection-end-column="41" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vue/vue_index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="520">
+          <caret line="171" column="35" lean-forward="false" selection-start-line="171" selection-start-column="35" selection-end-line="171" selection-end-column="35" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/login/Inc/head-balise.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="128">
+          <caret line="8" column="29" lean-forward="false" selection-start-line="8" selection-start-column="29" selection-end-line="8" selection-end-column="29" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vue/vue_etudiant.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="630">
+          <caret line="131" column="119" lean-forward="false" selection-start-line="131" selection-start-column="119" selection-end-line="131" selection-end-column="119" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/reset_password.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="5" column="47" lean-forward="false" selection-start-line="5" selection-start-column="37" selection-end-line="5" selection-end-column="47" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ajax/reset_password.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="294">
+          <caret line="19" column="66" lean-forward="false" selection-start-line="19" selection-start-column="66" selection-end-line="19" selection-end-column="66" />
+          <folding>
+            <marker date="1506082336250" expanded="true" signature="331:418" ph="UPDATE stude... " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vue/vue_etudiant_plus.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="717">
+          <caret line="492" column="30" lean-forward="true" selection-start-line="373" selection-start-column="25" selection-end-line="492" selection-end-column="30" />
+          <folding />
         </state>
       </provider>
     </entry>

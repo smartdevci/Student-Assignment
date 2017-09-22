@@ -112,6 +112,7 @@ $_SESSION['page']="etudiant";
                                                 <th>N°</th>
                                                 <th>Nom & Prénoms</th>
                                                 <th>ID</th>
+                                                <th>Automatic password</th>
                                                 <th>Remaining token</th>
                                                 <th>Regret point</th>
                                                 <th>Special needs</th>
@@ -127,7 +128,8 @@ $_SESSION['page']="etudiant";
                                         <tr>
                                                 <td><?php echo $i ?></td>
                                                 <td><?php echo utf8_encode($student['name']) ?></td>
-                                                <td><?php echo $student['login'] ?></td>
+                                            <td><?php echo $student['login'] ?></td>
+                                            <td><?php echo ($student['password_changed']==0)?$student['password']:"None" ?></td>
                                                 <td><?php echo $student['remaining_token'] ?></td>
                                                 <td><?php echo $student['regret_point'] ?></td>
                                                 <td><?php echo ($student['extra_case']==1)?'Oui':'Non' ?></td>

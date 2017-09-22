@@ -109,22 +109,12 @@ $_SESSION['page']="index";
                             <div class="panel-body">
                                 <div id="morris-donut-chart"></div>
                                 <div class="text-right">
-                                    <a href="#">Shows consultations <i class="fa fa-arrow-circle-right"></i></a>
+                                    <!--<a href="#">Shows consultations <i class="fa fa-arrow-circle-right"></i></a>-->
                                 </div>
                             </div>
                         </div>
 
-                        <div class="panel panel-default">
-                            <div class="panel-heading">
-                                <h3 class="panel-title"><i class="fa fa-clock-o fa-fw"></i> Choice </h3>
-                            </div>
-                            <div class="panel-body">
-                                <div id="morris-donut-chart"></div>
-                                <div class="text-right">
-                                    <a href="#">See previous choices <i class="fa fa-arrow-circle-right"></i></a>
-                                </div>
-                            </div>
-                        </div>
+
                     </div>
 
 
@@ -149,10 +139,10 @@ $_SESSION['page']="index";
                                         <span class="badge"><?php echo $last_consultation_date ?></span>
                                         <i class="fa fa-fw fa-calendar"></i> Date of last consultation
                                     </a>
-                                    <a href="" class="list-group-item">
+                                    <!--<a href="" class="list-group-item">
                                         <span class="badge">None</span>
                                         <i class="fa fa-fw fa-truck"></i> Special needs
-                                    </a>
+                                    </a>-->
                                      
                                 </div>
                                 <!--<div class="text-right">
@@ -167,22 +157,19 @@ $_SESSION['page']="index";
                     <div class="col-lg-5">
                         <div class="panel panel-default">
                             <div class="panel-heading">
-                                <h3 class="panel-title"><i class="fa fa-money fa-fw"></i> Wallet</h3>
+                                <h3 class="panel-title"><i class="fa fa-money fa-fw"></i> Student</h3>
                             </div>
                             <div class="panel-body">
                                 <div class="list-group">
                                     <a href="" class="list-group-item">
-                                        <span class="badge"><?php echo $p->remaining_token ?></span>
-                                        <i class="fa fa-fw fa-user"></i> Remaining tokens
+                                        <span class="badge"><?php echo $number_of_student ?></span>
+                                        <i class="fa fa-fw fa-user"></i> Number of student
                                     </a>   
                                     <a href="" class="list-group-item">
-                                        <span class="badge"><?php echo $p->regret_point ?></span>
-                                        <i class="fa fa-fw fa-user"></i> Regret point
+                                        <span class="badge"><?php echo $number_of_student_automatic_password ?></span>
+                                        <i class="fa fa-fw fa-user"></i> Number of student having a automatic password
                                     </a>
-                                    <a href="" class="list-group-item">
-                                        <span class="badge"><?php echo $p->date_inscription ?></span>
-                                        <i class="fa fa-fw fa-calendar"></i> Date of last used of tokens
-                                    </a>
+                                   
                                     <!--<a href="" class="list-group-item">
                                         <span class="badge">Non</span>
                                         <i class="fa fa-fw fa-truck"></i> Mobilité entrante

@@ -818,8 +818,45 @@ class DAO
 
 
 
+    function getNumberConsultation()
+    {
+        $requete =0;
+        $requete=$this->connexion->query("SELECT * FROM instance");
+        return $requete->rowCount();
+    }
 
-	/********getListAssignmentStudent************/
+    function getNumberStudent()
+    {
+        $requete =0;
+        $requete=$this->connexion->query("SELECT * FROM students");
+        return $requete->rowCount();
+    }
+
+    function getNumberStudentAutomaticPassword()
+    {
+        $requete =0;
+        $requete=$this->connexion->query("SELECT * FROM students WHERE password_changed=0");
+        return $requete->rowCount();
+    }
+
+    function getNumberConsultationNoResult()
+    {
+        $requete =0;
+        $requete=$this->connexion->query("SELECT * FROM instance WHERE resultat=0");
+        return $requete->rowCount();
+    }
+
+
+    function getLastConsultation()
+    {
+        $requete =0;
+        $requete=$this->connexion->query("SELECT *,DATE_FORMAT(importation_date,'%d/%m/%Y %h:%i') as la_date FROM `instance` WHERE instance_id=(SELECT MAX(instance_id) FROM instance)");
+        $reponse=$requete->fetch();
+        return $reponse;
+    }
+
+
+    /********getListAssignmentStudent************/
 	function getListAcademicYearForStudent($student_id)
 	{
 

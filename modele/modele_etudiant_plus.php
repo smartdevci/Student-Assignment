@@ -8,7 +8,7 @@
 	require 'init_student.php';	
 	$connexion=new DAO();
 
-	$student=$connexion->getStudent($student_id);
+	$student=$connexion->getStudent($student_id,DAO::TYPE_STUDENT);
 
 	$list_previous_assignment=$connexion->getListAcademicYearForStudent($student_id);
 	$list_use_wallet_data=$connexion->getWalletUse($student_id);
