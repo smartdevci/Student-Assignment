@@ -101,7 +101,7 @@
                              
                         </ul>
                     </li>-->
-                    <li class="all_users">
+                    <!--<li class="all_users">
                         <a href="javascript:;" data-toggle="collapse" data-target="#demo2"><i class="glyphicon glyphicon-question-sign"></i> Help <i class="fa fa-fw fa-caret-down"></i></a>
                         <ul id="demo2" class="collapse">
                             <li>
@@ -115,7 +115,7 @@
                             </li>
                              
                         </ul>
-                    </li>
+                    </li>-->
                     <li class="all_users">
                         <a href="logout/"><i class="fa fa-power-off"></i> Disconnect</a>
                     </li>

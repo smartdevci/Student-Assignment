@@ -2,8 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="df34d7e4-6fe0-4cb0-94c1-72b67533b016" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/modele/modele_choice.php" afterPath="$PROJECT_DIR$/modele/modele_choice.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vue/vue_choice.php" afterPath="$PROJECT_DIR$/vue/vue_choice.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vote_file/vote1.csv" afterPath="$PROJECT_DIR$/vote_file/vote1.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/login_password.txt" afterPath="$PROJECT_DIR$/login_password.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/menu.php" afterPath="$PROJECT_DIR$/menu.php" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -18,8 +20,8 @@
       <file leaf-file-name="modele_etudiant_plus.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/modele/modele_etudiant_plus.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="210">
-              <caret line="11" column="0" lean-forward="true" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
+            <state relative-caret-position="231">
+              <caret line="11" column="0" lean-forward="false" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -55,21 +57,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="modele_choice.php" pinned="false" current-in-tab="true">
+      <file leaf-file-name="modele_choice.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/modele/modele_choice.php">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="495">
-              <caret line="31" column="0" lean-forward="true" selection-start-line="31" selection-start-column="0" selection-end-line="31" selection-end-column="0" />
+              <caret line="31" column="0" lean-forward="false" selection-start-line="31" selection-start-column="0" selection-end-line="31" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="menu.php" pinned="false" current-in-tab="false">
+      <file leaf-file-name="menu.php" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/menu.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="329">
-              <caret line="139" column="39" lean-forward="false" selection-start-line="139" selection-start-column="39" selection-end-line="139" selection-end-column="39" />
+            <state relative-caret-position="546">
+              <caret line="117" column="28" lean-forward="false" selection-start-line="117" selection-start-column="28" selection-end-line="117" selection-end-column="28" />
               <folding />
             </state>
           </provider>
@@ -79,7 +81,7 @@
         <entry file="file://$PROJECT_DIR$/choice.php">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="84">
-              <caret line="4" column="2" lean-forward="true" selection-start-line="4" selection-start-column="2" selection-end-line="4" selection-end-column="2" />
+              <caret line="4" column="2" lean-forward="false" selection-start-line="4" selection-start-column="2" selection-end-line="4" selection-end-column="2" />
               <folding />
             </state>
           </provider>
@@ -88,7 +90,7 @@
       <file leaf-file-name="vue_choice.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/vue/vue_choice.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="817">
+            <state relative-caret-position="3927">
               <caret line="187" column="38" lean-forward="false" selection-start-line="187" selection-start-column="38" selection-end-line="187" selection-end-column="38" />
               <folding />
             </state>
@@ -98,7 +100,7 @@
       <file leaf-file-name="vue_etudiant_plus.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/vue/vue_etudiant_plus.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="402">
+            <state relative-caret-position="6447">
               <caret line="307" column="44" lean-forward="true" selection-start-line="307" selection-start-column="44" selection-end-line="345" selection-end-column="50" />
               <folding />
             </state>
@@ -146,6 +148,7 @@
       <find>monnai</find>
       <find>table</find>
       <find>Previous assignments</find>
+      <find>help</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -187,10 +190,10 @@
         <option value="$PROJECT_DIR$/monnaie.php" />
         <option value="$PROJECT_DIR$/modele/modele_monnaie.php" />
         <option value="$PROJECT_DIR$/ok.php" />
-        <option value="$PROJECT_DIR$/menu.php" />
         <option value="$PROJECT_DIR$/choice.php" />
         <option value="$PROJECT_DIR$/vue/vue_choice.php" />
         <option value="$PROJECT_DIR$/modele/modele_choice.php" />
+        <option value="$PROJECT_DIR$/menu.php" />
       </list>
     </option>
   </component>
@@ -222,6 +225,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -264,7 +268,6 @@
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scope" />
       <pane id="Scratches" />
     </panes>
   </component>
@@ -385,15 +388,16 @@
       <workItem from="1502545820552" duration="17000" />
       <workItem from="1503753566879" duration="2628000" />
       <workItem from="1503956673001" duration="2768000" />
-      <workItem from="1506065116823" duration="9479000" />
+      <workItem from="1506065116823" duration="10045000" />
+      <workItem from="1506927731756" duration="41000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="81711000" />
+    <option name="totallyTimeSpent" value="82318000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-9" y="-9" width="1938" height="1060" extended-state="6" />
+    <frame x="-9" y="-9" width="1938" height="1060" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -622,10 +626,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1407">
           <caret line="67" column="109" lean-forward="false" selection-start-line="67" selection-start-column="109" selection-end-line="67" selection-end-column="109" />
-          <folding>
-            <marker date="1501148704307" expanded="true" signature="295:391" ph="SELECT DISTI... vote" />
-            <marker date="1501148704307" expanded="true" signature="641:890" ph="SELECT * FRO... vote" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -665,11 +665,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="693">
           <caret line="33" column="0" lean-forward="true" selection-start-line="33" selection-start-column="0" selection-end-line="33" selection-end-column="0" />
-          <folding>
-            <marker date="1501165537890" expanded="true" signature="472:531" ph="INSERT INTO Consultation... " />
-            <marker date="1501165537890" expanded="true" signature="899:960" ph="SELECT * FRO... consultation" />
-            <marker date="1501165537890" expanded="true" signature="1306:1362" ph="SELECT * FRO... consultation" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -771,7 +766,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="128">
           <caret line="8" column="29" lean-forward="false" selection-start-line="8" selection-start-column="29" selection-end-line="8" selection-end-column="29" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -787,7 +781,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="105">
           <caret line="5" column="47" lean-forward="false" selection-start-line="5" selection-start-column="37" selection-end-line="5" selection-end-column="47" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -795,9 +788,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="294">
           <caret line="19" column="66" lean-forward="false" selection-start-line="19" selection-start-column="66" selection-end-line="19" selection-end-column="66" />
-          <folding>
-            <marker date="1506082336250" expanded="true" signature="331:418" ph="UPDATE stude... " />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -841,14 +831,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/menu.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="329">
-          <caret line="139" column="39" lean-forward="false" selection-start-line="139" selection-start-column="39" selection-end-line="139" selection-end-column="39" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/monnaie.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="42">
@@ -860,14 +842,14 @@
     <entry file="file://$PROJECT_DIR$/choice.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="84">
-          <caret line="4" column="2" lean-forward="true" selection-start-line="4" selection-start-column="2" selection-end-line="4" selection-end-column="2" />
+          <caret line="4" column="2" lean-forward="false" selection-start-line="4" selection-start-column="2" selection-end-line="4" selection-end-column="2" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/vue/vue_choice.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="817">
+        <state relative-caret-position="3927">
           <caret line="187" column="38" lean-forward="false" selection-start-line="187" selection-start-column="38" selection-end-line="187" selection-end-column="38" />
           <folding />
         </state>
@@ -875,7 +857,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/vue/vue_etudiant_plus.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="402">
+        <state relative-caret-position="6447">
           <caret line="307" column="44" lean-forward="true" selection-start-line="307" selection-start-column="44" selection-end-line="345" selection-end-column="50" />
           <folding />
         </state>
@@ -883,8 +865,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/modele/modele_etudiant_plus.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="11" column="0" lean-forward="true" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
+        <state relative-caret-position="231">
+          <caret line="11" column="0" lean-forward="false" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
           <folding />
         </state>
       </provider>
@@ -892,7 +874,15 @@
     <entry file="file://$PROJECT_DIR$/modele/modele_choice.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="495">
-          <caret line="31" column="0" lean-forward="true" selection-start-line="31" selection-start-column="0" selection-end-line="31" selection-end-column="0" />
+          <caret line="31" column="0" lean-forward="false" selection-start-line="31" selection-start-column="0" selection-end-line="31" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/menu.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="546">
+          <caret line="117" column="28" lean-forward="false" selection-start-line="117" selection-start-column="28" selection-end-line="117" selection-end-column="28" />
           <folding />
         </state>
       </provider>
